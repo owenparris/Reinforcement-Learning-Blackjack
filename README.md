@@ -24,6 +24,7 @@ The goal was to build a realistic simulation of blackjack and test whether bette
 * Achieves higher expected value than basic strategy
 * Kelly sizing improves long-term bankroll growth compared to flat betting
 * Performance remains stable across large simulation runs
+* See RESULTS.png
 
 ## Tech
 
